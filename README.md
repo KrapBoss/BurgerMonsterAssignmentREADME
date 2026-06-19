@@ -1,3 +1,6 @@
+# YouTubu Link (InGame)
+https://youtube.com/shorts/EJfbGkaWfg0
+
 # 1. 프로젝트 개요
 * **개발 환경**: Unity 6000.4.3f1 / Android (세로형)
 ---
