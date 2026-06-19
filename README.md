@@ -135,7 +135,7 @@ sequenceDiagram
 │  CardModel (Model)   │◄────────────►│ CardPresenter (P)  │
 │  순수 C# 클래스       │              │  Model↔View 중재   │
 │  HP, 쿨다운, 생존 상태│              │  스킬 판정 및       │
-│  OnHpChanged 이벤트  │              │  커맨드 생성        │
+│  OnHpChanged 이벤트  │              │  데이터 기반 커맨드 생성│
 └──────────────────────┘              └────────┬──────────┘
                                                │ 제어
                                       ┌────────▼──────────┐
